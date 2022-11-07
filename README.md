@@ -1,1 +1,9 @@
 # Airbnb-Bookings-Analysis---Capstone-Project
+As we all know that Airbnb let host from different countries list their property on the platform for renting out and users can book the property of their choice as per their requirement of accommodation.
+In our analysis we have sorted out top 15 neighbourhoods amongst the boroughs and after that we have found out which borough has the greatest number of properties listed and Manhattan had the most properties. We have curtailed the price range to $440, as there were some outliers in our dataset and from this, we came to know that Manhattan was the costliest place to stay for the visitors.
+There were three categories of rooms available for visitors in which shared room has the nominal number of listings and it states that most host prefer listing of entire home/apartment or private room. Visitors must keep this in mind before coming to New York City.
+From the price distribution we can conclude that, the price range is between $10 to $400. With this data visitor can plan the budget of their visit this City.
+As we go forward with the data analysis, we can say that Bronx has the cheapest set of properties and Manhattan has the evenly distributed price range. It means that visitor can find moderate as well as highest priced property in Manhattan.
+Further we have sorted out the top hosts whose properties has the highest rate of review per month. With this we can conclude that these hosts are the busiest hosts in the territory. 
+This dataset gives us a detailed insight from a visitor’s perspective as it will help them while planning their stay and if you consider it from Airbnb’s perspective it gives them an opportunity to improve some features on their platform. 
+It would be also very helpful to have some additional features like quality of stay, such as great, good, average, and bad for each unique property listing, this will give the more idea while shortlisting the top hosts.
